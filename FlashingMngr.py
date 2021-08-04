@@ -6,7 +6,7 @@ Created on Jun 5, 2020
 
 from intelhex import IntelHex
 from  ComMngr import *
-from t import bin_data
+#from t import bin_data
 
 
 class FlashingMngr(object):
